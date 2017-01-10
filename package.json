@@ -1,13 +1,13 @@
 {
-  "name": "@sermons/reveal-skel",
+  "name": "@sermons/zeal",
   "version": "1.0.0",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
-  "keywords": ["slides", "lectures", "talks", "ppt"],
+  "repository": "sermons/zeal",
+  "description": "Jn3:13-22, Zeal for the House of God",
+  "keywords": ["slides", "sermons", "talks", "ppt"],
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "zeal.seanho.com",
+    "cname": "zeal.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
       "id": "22bc761ffc97809b"
@@ -18,9 +18,9 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01"
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Burnaby",
+        "date": "2017-01-25"
       }
     ]
   },
