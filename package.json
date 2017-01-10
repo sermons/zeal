@@ -1,8 +1,8 @@
 {
   "name": "@sermons/zeal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "sermons/zeal",
-  "description": "Jn3:13-22, Zeal for the House of God",
+  "description": "Jn2:13-22, Zeal for the House of God",
   "keywords": ["slides", "sermons", "talks", "ppt"],
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
@@ -20,7 +20,7 @@
       {
         "venue": "Evangelical Chinese Bible Church",
         "city": "Burnaby",
-        "date": "2017-01-25"
+        "date": "2017-01-22"
       }
     ]
   },
