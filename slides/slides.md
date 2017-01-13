@@ -3,7 +3,7 @@
 ## John 2:13-22
 
 >>>
-zeal.seanho.com
+
 
 ---
 <!-- .slide: data-background="white" -->
@@ -11,6 +11,6 @@ zeal.seanho.com
 
 ---
 ## Zeal for the House of God
-1. **One** (v13-17)
+1.  (v13-17)
 2. **Two** (v18)
 3. **Three** (v19-22)
