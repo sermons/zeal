@@ -67,12 +67,15 @@ who insult you fall on me.
 <span class="ref">18</span>
 The Jews then **responded** to him, <br/>
 “What **sign** can you show us <br/>
-to **prove** your authority to do all this?”
+to prove your authority to **do** all this?”
 
 <span class="ref">19</span>
 Jesus answered them, <br/>
 “Destroy this **temple**, <br/>
 and I will **raise** it again in three days.”
+
+>>>
++ *prove authority*: that these you do
 
 ---
 <span class="ref">20</span>
@@ -83,6 +86,9 @@ and you are going to raise it in **three days**?”
 <span class="ref">21</span>
 But the **temple** he had spoken of <br/>
 was his **body**.
+
+>>>
++ body temple of HS: 1Cor6:19
 
 ---
 <span class="ref">22</span>
