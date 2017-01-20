@@ -41,25 +41,22 @@ and **overturned** their tables.
 <span class="ref">16</span>
 To those who **sold** doves he said, <br/>
 “Get these **out of here**! <br/>
-Stop turning **my Father’s house** into a **market**!”
+Stop turning **my Father’s house** <br/>
+into a **market**!”
 
 <span class="ref">17</span>
 His disciples **remembered** that it is written: <br/>
 “**Zeal** for your **house** will **consume** me.”
 
 ---
-## Psalm 69:7-9
+## Psalm 69:7,9 <span class="ref">(NIV)</span>
 
 <span class="ref">7</span>
 For I endure **scorn** for your sake, <br/>
 and **shame** covers my face.
 
-<span class="ref">8</span>
-I am a foreigner to my **own family**, <br/>
-a stranger to my own **mother’s children**;
-
 <span class="ref">9</span>
-for **zeal** for your house **consumes** me, <br/>
+**Zeal** for your house **consumes** me, <br/>
 and the **insults** of those <br/>
 who insult you fall on me.
 
