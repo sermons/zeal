@@ -22,9 +22,22 @@ When it was almost time <br/>
 for the Jewish **Passover**, <br/>
 Jesus went up to **Jerusalem**.
 
+| First Passover | Third Passover |
+|----------------|----------------|
+| John 2         | Matthew 21, Mark 11, Luke 19 |
+| Start of ministry | End of ministry |
+
+>>>
++ annual **pilgrimage**, 200-300k Jews
++ 3 Passovers in John
+
+---
 <span class="ref">14</span>
 In the **temple courts** he found <br/>
-people selling **cattle**, **sheep** and **doves**, <br/>
+people selling **cattle**, **sheep** and **doves**,
+
+---
+<span class="ref">14</span>
 and others sitting at **tables** <br/>
 exchanging **money**.
 
@@ -39,8 +52,8 @@ and **overturned** their tables.
 
 ---
 <span class="ref">16</span>
-To those who **sold** doves he said, <br/>
-“Get these **out of here**! <br/>
+To those who sold **doves** he said, <br/>
+“Get these **out** of here! <br/>
 Stop turning **my Father’s house** <br/>
 into a **market**!”
 
