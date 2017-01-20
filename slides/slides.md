@@ -11,9 +11,10 @@
 
 ---
 ## Zeal for the House of God
-1. **One** (v13-17)
-2. **Two** (v18)
-3. **Three** (v19-22)
+1. **Temple Courts** (v13-14)
+2. **Zeal for the Father's House** (v15-17)
+3. **Raise a Temple** (v18-21)
+4. **
 
 ---
 <span class="ref">13</span>
@@ -45,6 +46,22 @@ Stop turning **my Father’s house** into a **market**!”
 <span class="ref">17</span>
 His disciples **remembered** that it is written: <br/>
 “**Zeal** for your **house** will **consume** me.”
+
+---
+## Psalm 69:7-9
+
+<span class="ref">7</span>
+For I endure **scorn** for your sake, <br/>
+and **shame** covers my face.
+
+<span class="ref">8</span>
+I am a foreigner to my **own family**, <br/>
+a stranger to my own **mother’s children**;
+
+<span class="ref">9</span>
+for **zeal** for your house **consumes** me, <br/>
+and the **insults** of those <br/>
+who insult you fall on me.
 
 ---
 <span class="ref">18</span>
