@@ -47,6 +47,15 @@ His disciples **remembered** that it is written: <br/>
 “**Zeal** for your **house** will **consume** me.”
 
 ---
+<span class="ref">Ps69:7-9</span>
+For I endure scorn for your sake,
+    and shame covers my face.
+8 I am a foreigner to my own family,
+    a stranger to my own mother’s children;
+9 for zeal for your house consumes me,
+    and the insults of those who insult you fall on me.
+
+---
 <span class="ref">18</span>
 The Jews then **responded** to him, <br/>
 “What **sign** can you show us <br/>
