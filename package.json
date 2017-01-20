@@ -1,6 +1,6 @@
 {
   "name": "@sermons/zeal",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "repository": "sermons/zeal",
   "description": "Jn2:13-22, Zeal for the House of God",
   "keywords": ["slides", "sermons", "talks", "ppt"],
@@ -41,6 +41,7 @@
   },
   "scripts": {
     "test": "grunt test",
+    "pdf": "grunt pdf",
     "deploy": "grunt deploy"
   }
 }
