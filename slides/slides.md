@@ -128,11 +128,6 @@ To those who sold **doves** he said, <br/>
 Stop turning **my Father’s house** <br/>
 into a **market**!”
 
-<div class="caption">
-Bernardino Mei,
-["Christ Cleansing the Temple"](https://www.google.com/culturalinstitute/beta/u/0/asset/8gGjtgJKKO7AGQ), 1655. Getty Museum, LA
-</div>
-
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bida-Jesus_expels_the_merchants.jpg" -->
 <span class="ref">17</span>
@@ -172,10 +167,16 @@ who insult you fall on me.
   <span class="ref">(v19, 21-22)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ludy-Christ_curses_Pharisees.jpg" -->
 <span class="ref">18</span>
 The Jews then **responded** to him, <br/>
 “What **sign** can you show us <br/>
 to prove your authority to **do** all this?”
+
+<div class="caption">
+F. A. Ludy,
+["Christ Curses the Pharisees"](http://wellcomeimages.org/indexplus/image/V0034553.html), 1843.
+</div>
 
 >>>
 + *Jews*: cultural/**religious** leaders
@@ -186,6 +187,7 @@ to prove your authority to **do** all this?”
   + prove **to us**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ludy-Christ_curses_Pharisees.jpg" -->
 ## Matthew 12:38 <span class="ref">(NIV)</span>
 Then some of the **Pharisees** <br/>
 and **teachers of the law** said to him,
@@ -205,18 +207,6 @@ generation asks for a **sign**!
 
 But none will be given it <br/>
 except the sign of the prophet **Jonah**.
-
----
-## Matthew 12:40 <span class="ref">(NIV)</span>
-For as Jonah was **three days** and **three nights** <br/>
-in the **belly** of a huge **fish**,
-
-so the Son of Man will be <br/>
-**three days** and **three nights** <br/>
-in the **heart** of the **earth**.
-
->>>
-+ sign: own death + resurrection
 
 ---
 <!-- .slide: data-background="white" -->
@@ -243,6 +233,19 @@ and I will **raise** it again in three days.”
 <span class="ref">21</span>
 But the **temple** he had spoken of <br/>
 was his **body**.
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
+## Matthew 12:40 <span class="ref">(NIV)</span>
+For as Jonah was **three days** and **three nights** <br/>
+in the **belly** of a huge **fish**,
+
+so the Son of Man will be <br/>
+**three days** and **three nights** <br/>
+in the **heart** of the **earth**.
+
+>>>
++ sign: own death + resurrection
 
 ---
 ## 1 Cor 3:16-17 <span class="ref">(NIV)</span>
