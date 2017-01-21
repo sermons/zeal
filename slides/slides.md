@@ -283,12 +283,18 @@ in the **heart** of the **earth**.
 + sign: own death + resurrection
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Scott-Entrance_Garden_Tomb.jpg" -->
 <span class="ref">22</span>
 **After** he was raised from the dead, <br/>
 his disciples **recalled** what he had said.
 
 Then they **believed** the **Scripture** <br/>
 and the **words** that Jesus had spoken.
+
+<div class="caption">
+[Entrance to the Garden Tomb](https://www.flickr.com/photos/ian-w-scott/4014339437/), Jerusalem.
+&copy; 2009 Ian W Scott, CC-BY-SA 2.0
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
