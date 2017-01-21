@@ -71,9 +71,8 @@ and others sitting at **tables** <br/>
 exchanging **money**.
 
 <div class="caption">
-(Modern Israeli half-shekel.
-&copy; 2009
-[@rickjpelleg](https://commons.wikimedia.org/wiki/File%3A0.5-Shekel-hatasham-RJP.jpg), CC-BY-SA 3.0)
+([Modern Israeli half-shekel](https://commons.wikimedia.org/wiki/File%3A0.5-Shekel-hatasham-RJP.jpg).
+&copy; 2009 @rickjpelleg, CC-BY-SA 3.0)
 </div>
 
 >>>
