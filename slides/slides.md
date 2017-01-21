@@ -90,7 +90,15 @@ exchanging **money**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Outline
+## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
+1. House of Merchants
+  <span class="ref">(v13-14)</span>
+1. **House of My Father**
+  <span class="ref">(v15-17)</span>
+1. Sign of Proof
+  <span class="ref">(v18, 20)</span>
+1. Sign of the Temple
+  <span class="ref">(v19, 21-22)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Mei-Christ_Cleansing_the_Temple.jpg" -->
@@ -154,7 +162,15 @@ who insult you fall on me.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Outline
+## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
+1. House of Merchants
+  <span class="ref">(v13-14)</span>
+1. House of My Father
+  <span class="ref">(v15-17)</span>
+1. **Sign of Proof**
+  <span class="ref">(v18, 20)</span>
+1. Sign of the Temple
+  <span class="ref">(v19, 21-22)</span>
 
 ---
 <span class="ref">18</span>
@@ -209,7 +225,15 @@ in the **heart** of the **earth**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Outline
+## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
+1. House of Merchants
+  <span class="ref">(v13-14)</span>
+1. House of My Father
+  <span class="ref">(v15-17)</span>
+1. Sign of Proof
+  <span class="ref">(v18, 20)</span>
+1. **Sign of the Temple**
+  <span class="ref">(v19, 21-22)</span>
 
 ---
 <span class="ref">19</span>
