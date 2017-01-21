@@ -16,6 +16,7 @@
   + but on **Scripture**'s account
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
 1. House of **Merchants**
   <span class="ref">(v13-14)</span>
@@ -27,6 +28,7 @@
   <span class="ref">(v19, 21-22)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Holyland_Model_Jerusalem.jpg" -->
 <span class="ref">13</span>
 When it was almost time <br/>
 for the Jewish **Passover**, <br/>
@@ -37,6 +39,7 @@ Jesus went up to **Jerusalem**.
 + **absence** would be conspicuous
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Holyland_Model_Jerusalem.jpg" -->
 ## Cleansing the Temple
 | **First** Passover | **Third** Passover |
 |----------------|----------------|
@@ -47,6 +50,7 @@ Jesus went up to **Jerusalem**.
 + 3 **Passovers** in John
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M7fi58_dF5k-cow.jpg" -->
 <span class="ref">14</span>
 In the **temple courts** he found <br/>
 people selling **cattle**, **sheep** and **doves**,
@@ -61,9 +65,16 @@ people selling **cattle**, **sheep** and **doves**,
   + sellers **scalped** pilgrims
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Pelleg-Israeli_half_shekel.jpg" -->
 <span class="ref">14</span>
 and others sitting at **tables** <br/>
 exchanging **money**.
+
+<div class="caption">
+(Modern Israeli half-shekel.
+&copy; 2009
+[@rickjpelleg](https://commons.wikimedia.org/wiki/File%3A0.5-Shekel-hatasham-RJP.jpg), CC-BY-SA 3.0)
+</div>
 
 >>>
 + **half-shekel** temple tax (Ex30:13)
@@ -82,6 +93,7 @@ exchanging **money**.
 ## Outline
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Mei-Christ_Cleansing_the_Temple.jpg" -->
 <span class="ref">15</span>
 So he made a **whip** out of cords, <br/>
 and **drove** all from the temple courts, <br/>
@@ -90,12 +102,18 @@ both **sheep** and **cattle**;
 he **scattered** the coins of the money changers <br/>
 and **overturned** their tables.
 
+<div class="caption">
+Bernardino Mei,
+["Christ Cleansing the Temple"](https://www.google.com/culturalinstitute/beta/u/0/asset/8gGjtgJKKO7AGQ), 1655. Getty Museum, LA
+</div>
+
 >>>
 + *whip*: for **animals**
 + *scattered*: distrib for free
 + *overturned*: revoke lease
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Mei-Christ_Cleansing_the_Temple.jpg" -->
 <span class="ref">16</span>
 To those who sold **doves** he said, <br/>
 “Get these **out** of here!
@@ -103,10 +121,21 @@ To those who sold **doves** he said, <br/>
 Stop turning **my Father’s house** <br/>
 into a **market**!”
 
+<div class="caption">
+Bernardino Mei,
+["Christ Cleansing the Temple"](https://www.google.com/culturalinstitute/beta/u/0/asset/8gGjtgJKKO7AGQ), 1655. Getty Museum, LA
+</div>
+
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bida-Jesus_expels_the_merchants.jpg" -->
 <span class="ref">17</span>
 His disciples **remembered** that it is written: <br/>
 “**Zeal** for your **house** will **consume** me.”
+
+<div class="caption">
+Alexander Bida,
+["Jesús expulsa a los mercaderes del Templo"](https://www.gci.org/files/images/ab/index2), 1885
+</div>
 
 ---
 ## Psalm 69:7,9 <span class="ref">(NIV)</span>
