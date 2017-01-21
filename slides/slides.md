@@ -169,6 +169,10 @@ If anyone **destroys** God’s temple, <br/>
 for God’s temple is **sacred**, <br/>
 and **you together** are that temple.
 
+>>>
++ divisions in church
++ follow Paul, Apollos, Cephas, etc.
+
 ---
 <span class="ref">22</span>
 **After** he was raised from the dead, <br/>
