@@ -28,10 +28,10 @@ Jesus went up to **Jerusalem**.
 
 ---
 ## Cleansing the Temple
-| First Passover | Third Passover |
+| **First** Passover | **Third** Passover |
 |----------------|----------------|
-| John 2         | Matthew 21 <br/> Mark 11 <br/> Luke 19 |
-| Start of ministry | End of ministry |
+| [John 2](https://mobile.biblegateway.com/passage/?search=jn2.13-17) | [Matthew 21](https://mobile.biblegateway.com/passage/?search=mt21.12-13) <br/> [Mark 11](https://mobile.biblegateway.com/passage/?search=mk11.15-17) <br/> [Luke 19](https://mobile.biblegateway.com/passage/?search=lk19.45-46) |
+| *Start* of ministry | *End* of ministry |
 
 >>>
 + 3 **Passovers** in John
