@@ -7,14 +7,25 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# What is Jesus **passionate** about? 
+
+>>>
++ fervent **commitment**, in
+  + both **emotion** + **action**
++ not based on what **I** think
+  + but on **Scripture**'s account
 
 ---
-## Zeal for the House of God
-1. **Temple Courts** (v13-14)
-2. **Zeal for the Father's House** (v15-17)
-3. **Raise a Temple** (v18-21)
-4. **
+## Zeal for the House of God <br/>
+  <span class="ref">(John 2)</span>
+1. House of **Merchants**
+  <span class="ref">(v13-14)</span>
+1. House of **My Father**
+  <span class="ref">(v15-17)</span>
+1. Sign of **Proof**
+  <span class="ref">(v18, 20)</span>
+1. Sign of the **Temple**
+  <span class="ref">(v19, 21-22)</span>
 
 ---
 <span class="ref">13</span>
@@ -110,7 +121,8 @@ to prove your authority to **do** all this?”
 >>>
 + *Jews*: cultural/**religious** leaders
   + in **charge** of temple worship
-+ *prove authority*: that these you do
++ *prove authority*:
+  + that you do all these? 
   + **protect**, validate
   + prove **to us**
 
