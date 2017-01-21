@@ -41,10 +41,27 @@ Jesus went up to **Jerusalem**.
 In the **temple courts** he found <br/>
 people selling **cattle**, **sheep** and **doves**,
 
+>>>
++ pilgrims from **far away**
+  + could not bring **offerings**
+  + bought in local **countryside**
++ but close to **start** of Feast,
+  + move **inside** Temple outer court
++ **priests** charged **rent**
+  + sellers **scalped** pilgrims
+
 ---
 <span class="ref">14</span>
 and others sitting at **tables** <br/>
 exchanging **money**.
+
+>>>
++ **half-shekel** temple tax (Ex30:13)
+  + Greek/Roman coins **not** accepted
+    + graven images
+  + "**token**" of arbitrary value
++ money-changers had **monopoly**
+  + *tables*: semi-permanent stalls
 
 ---
 <span class="ref">15</span>
@@ -55,20 +72,26 @@ both **sheep** and **cattle**;
 he **scattered** the coins of the money changers <br/>
 and **overturned** their tables.
 
+>>>
++ *whip*: for **animals**
++ *scattered*: distrib for free
++ *overturned*: revoke lease
+
 ---
 <span class="ref">16</span>
 To those who sold **doves** he said, <br/>
-“Get these **out** of here! <br/>
+“Get these **out** of here!
+
 Stop turning **my Father’s house** <br/>
 into a **market**!”
 
+---
 <span class="ref">17</span>
 His disciples **remembered** that it is written: <br/>
 “**Zeal** for your **house** will **consume** me.”
 
 ---
 ## Psalm 69:7,9 <span class="ref">(NIV)</span>
-
 <span class="ref">7</span>
 For I endure **scorn** for your sake, <br/>
 and **shame** covers my face.
@@ -84,13 +107,45 @@ The Jews then **responded** to him, <br/>
 “What **sign** can you show us <br/>
 to prove your authority to **do** all this?”
 
+>>>
++ *Jews*: cultural/**religious** leaders
+  + in **charge** of temple worship
++ *prove authority*: that these you do
+  + **protect**, validate
+  + prove **to us**
+
+---
+## Matthew 12:38 <span class="ref">(NIV)</span>
+Then some of the **Pharisees** <br/>
+and **teachers of the law** said to him,
+
+“Teacher, we want to see a **sign** from you.”
+
+>>>
++ later in **Galilee**
++ no doubt about **signs**, but
+  + doubt from **God** vs Beelzebul
+
+---
+## Matthew 12:39-40 <span class="ref">(NIV)</span>
+He answered, <br/>
+“A **wicked** and **adulterous** generation asks for a **sign**! <br/>
+But none will be given it <br/>
+except the sign of the prophet **Jonah**.
+
+For as Jonah was **three days** and **three nights** <br/>
+in the **belly** of a huge **fish**, <br/>
+so the Son of Man will be **three days** and **three nights** <br/>
+in the **heart** of the **earth**.
+
+>>>
++ sign: own death + resurrection
+
+---
 <span class="ref">19</span>
 Jesus answered them, <br/>
 “Destroy this **temple**, <br/>
 and I will **raise** it again in three days.”
-
->>>
-+ *prove authority*: that these you do
 
 ---
 <span class="ref">20</span>
