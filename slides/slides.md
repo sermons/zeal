@@ -98,7 +98,7 @@ But the **temple** he had spoken of <br/>
 was his **body**.
 
 >>>
-+ body temple of HS: 1Cor6:19
++ body temple of HS: 1Cor3:16-17
 
 ---
 <span class="ref">22</span>
