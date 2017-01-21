@@ -157,8 +157,17 @@ and you are going to raise it in **three days**?”
 But the **temple** he had spoken of <br/>
 was his **body**.
 
->>>
-+ body temple of HS: 1Cor3:16-17
+---
+## 1 Cor 3:16-17 <span class="ref">(NIV)</span>
+Don’t you know that you **yourselves** <br/>
+are God’s **temple** <br/>
+and that God’s **Spirit** dwells in your midst?
+
+If anyone **destroys** God’s temple, <br/>
+**God** will destroy that person;
+
+for God’s temple is **sacred**, <br/>
+and **you together** are that temple.
 
 ---
 <span class="ref">22</span>
