@@ -7,7 +7,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is Jesus **passionate** about? 
+# What is Jesus **passionate** about?
 
 >>>
 + fervent **commitment**, in
@@ -75,6 +75,14 @@ exchanging **money**.
   + *tables*: semi-permanent stalls
 
 ---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+## Outline
+
+---
 <span class="ref">15</span>
 So he made a **whip** out of cords, <br/>
 and **drove** all from the temple courts, <br/>
@@ -113,6 +121,14 @@ and the **insults** of those <br/>
 who insult you fall on me.
 
 ---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+## Outline
+
+---
 <span class="ref">18</span>
 The Jews then **responded** to him, <br/>
 “What **sign** can you show us <br/>
@@ -122,7 +138,7 @@ to prove your authority to **do** all this?”
 + *Jews*: cultural/**religious** leaders
   + in **charge** of temple worship
 + *prove authority*:
-  + that you do all these? 
+  + that you do all these?
   + **protect**, validate
   + prove **to us**
 
@@ -160,16 +176,18 @@ in the **heart** of the **earth**.
 + sign: own death + resurrection
 
 ---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+## Outline
+
+---
 <span class="ref">19</span>
 Jesus answered them, <br/>
 “Destroy this **temple**, <br/>
 and I will **raise** it again in three days.”
-
----
-<span class="ref">20</span>
-They replied, “It has taken <br/>
-**forty-six years** to build this temple, <br/>
-and you are going to raise it in **three days**?”
 
 <span class="ref">21</span>
 But the **temple** he had spoken of <br/>
@@ -199,3 +217,15 @@ his disciples **recalled** what he had said.
 Then they **believed** the **Scripture** <br/>
 and the **words** that Jesus had spoken.
 
+---
+<!-- .slide: data-background="white" -->
+# Q4
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<span class="ref">17</span>
+His disciples **remembered** that it is written: <br/>
+“**Zeal** for your **house** will **consume** me.”
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
