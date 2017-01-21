@@ -140,6 +140,7 @@ Alexander Bida,
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 ## Psalm 69:7,9 <span class="ref">(NIV)</span>
 <span class="ref">7</span>
 For I endure **scorn** for your sake, <br/>
@@ -149,6 +150,11 @@ and **shame** covers my face.
 **Zeal** for your house **consumes** me, <br/>
 and the **insults** of those <br/>
 who insult you fall on me.
+
+>>>
++ *zeal*: fervent **commitment** in both emotion + action
+  + seek, pursue, jealous
++ *consume*: **eat** up, swallow whole, **burn** completely
 
 ---
 <!-- .slide: data-background="white" -->
@@ -185,6 +191,7 @@ F. A. Ludy,
   + that you do all these?
   + **protect**, validate
   + prove **to us**
++ Again later in **Galilee**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ludy-Christ_curses_Pharisees.jpg" -->
@@ -195,18 +202,35 @@ and **teachers of the law** said to him,
 “Teacher, we want to see a **sign** from you.”
 
 >>>
-+ later in **Galilee**
 + no doubt about **signs**, but
   + doubt from **God** vs Beelzebul
 
 ---
-## Matthew 12:39 <span class="ref">(NIV)</span>
-He answered, <br/>
-“A **wicked** and **adulterous** <br/>
-generation asks for a **sign**!
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
+## 1 Cor 1:22-23 <span class="ref">(NASB)</span>
+For indeed Jews ask for **signs** <br/>
+and Greeks search for **wisdom**;
 
-But none will be given it <br/>
-except the sign of the prophet **Jonah**.
+<span class="ref">23</span>
+but we preach Christ **crucified**, <br/>
+to Jews a **stumbling block** <br/>
+and to Gentiles **foolishness**,
+
+>>>
++ prove Jesus' **power** / authority
++ prove Jesus' **wisdom**
+  + logic, eloquence, pithy
++ prove to **whom**?
++ **crucifixion** seems weak / foolish
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
+## 1 Cor 1:24 <span class="ref">(NASB)</span>
+but to those who are **the called**, <br/>
+both Jews and Greeks,
+
+Christ the **power** of God <br/>
+and the **wisdom** of God.
 
 ---
 <!-- .slide: data-background="white" -->
@@ -236,6 +260,16 @@ was his **body**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
+## Matthew 12:39 <span class="ref">(NIV)</span>
+He answered, <br/>
+“A **wicked** and **adulterous** <br/>
+generation asks for a **sign**!
+
+But none will be given it <br/>
+except the sign of the prophet **Jonah**.
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
 ## Matthew 12:40 <span class="ref">(NIV)</span>
 For as Jonah was **three days** and **three nights** <br/>
 in the **belly** of a huge **fish**,
@@ -246,22 +280,6 @@ in the **heart** of the **earth**.
 
 >>>
 + sign: own death + resurrection
-
----
-## 1 Cor 3:16-17 <span class="ref">(NIV)</span>
-Don’t you know that you **yourselves** <br/>
-are God’s **temple** <br/>
-and that God’s **Spirit** dwells in your midst?
-
-If anyone **destroys** God’s temple, <br/>
-**God** will destroy that person;
-
-for God’s temple is **sacred**, <br/>
-and **you together** are that temple.
-
->>>
-+ divisions in church
-+ follow Paul, Apollos, Cephas, etc.
 
 ---
 <span class="ref">22</span>
