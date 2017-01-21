@@ -16,8 +16,7 @@
   + but on **Scripture**'s account
 
 ---
-## Zeal for the House of God <br/>
-  <span class="ref">(John 2)</span>
+## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
 1. House of **Merchants**
   <span class="ref">(v13-14)</span>
 1. House of **My Father**
