@@ -22,14 +22,19 @@ When it was almost time <br/>
 for the Jewish **Passover**, <br/>
 Jesus went up to **Jerusalem**.
 
+>>>
++ annual **pilgrimage**, 200-300k Jews
++ **absence** would be conspicuous
+
+---
+## Cleansing the Temple
 | First Passover | Third Passover |
 |----------------|----------------|
-| John 2         | Matthew 21, Mark 11, Luke 19 |
+| John 2         | Matthew 21 <br/> Mark 11 <br/> Luke 19 |
 | Start of ministry | End of ministry |
 
 >>>
-+ annual **pilgrimage**, 200-300k Jews
-+ 3 Passovers in John
++ 3 **Passovers** in John
 
 ---
 <span class="ref">14</span>
