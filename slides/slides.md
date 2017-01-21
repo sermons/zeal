@@ -249,6 +249,7 @@ and the **wisdom** of God.
   <span class="ref">(v19, 21-22)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Holyland_Model_Temple.jpg" -->
 <span class="ref">19</span>
 Jesus answered them, <br/>
 “Destroy this **temple**, <br/>
