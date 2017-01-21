@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 # Zeal for the <br/> House of God
 ## John 2:13-22
 
@@ -16,7 +16,7 @@
   + but on **Scripture**'s account
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 ## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
 1. House of **Merchants**
   <span class="ref">(v13-14)</span>
@@ -89,7 +89,7 @@ exchanging **money**.
 # Q1
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 ## Outline
 
 ---
@@ -153,7 +153,7 @@ who insult you fall on me.
 # Q2
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 ## Outline
 
 ---
@@ -208,7 +208,7 @@ in the **heart** of the **earth**.
 # Q3
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 ## Outline
 
 ---
@@ -250,10 +250,10 @@ and the **words** that Jesus had spoken.
 # Q4
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 <span class="ref">17</span>
 His disciples **remembered** that it is written: <br/>
 “**Zeal** for your **house** will **consume** me.”
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" class="empty" -->
