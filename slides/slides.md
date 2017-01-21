@@ -127,15 +127,21 @@ and **teachers of the law** said to him,
   + doubt from **God** vs Beelzebul
 
 ---
-## Matthew 12:39-40 <span class="ref">(NIV)</span>
+## Matthew 12:39 <span class="ref">(NIV)</span>
 He answered, <br/>
-“A **wicked** and **adulterous** generation asks for a **sign**! <br/>
+“A **wicked** and **adulterous** <br/>
+generation asks for a **sign**!
+
 But none will be given it <br/>
 except the sign of the prophet **Jonah**.
 
+---
+## Matthew 12:40 <span class="ref">(NIV)</span>
 For as Jonah was **three days** and **three nights** <br/>
-in the **belly** of a huge **fish**, <br/>
-so the Son of Man will be **three days** and **three nights** <br/>
+in the **belly** of a huge **fish**,
+
+so the Son of Man will be <br/>
+**three days** and **three nights** <br/>
 in the **heart** of the **earth**.
 
 >>>
