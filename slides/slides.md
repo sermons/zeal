@@ -84,6 +84,15 @@ exchanging **money**.
   + *tables*: semi-permanent stalls
 
 ---
+## 1 Timothy 6:4-5 <span class="ref">(NIV)</span>
+They have an unhealthy interest in **controversies** ...
+
+constant **friction** between people of **corrupt mind**, 
+
+who think that **godliness** <br/>
+is a means to **financial gain**.
+
+---
 <!-- .slide: data-background="white" -->
 # Q1
 
