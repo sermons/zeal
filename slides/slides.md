@@ -307,7 +307,7 @@ and the **wisdom** of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Do I demand **proof** from God? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
@@ -331,6 +331,9 @@ and I will **raise** it again in three days.”
 <span class="ref">21</span>
 But the **temple** he had spoken of <br/>
 was his **body**.
+
+>>>
++ false witnesses at trial
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
@@ -371,7 +374,7 @@ and the **words** that Jesus had spoken.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# Is Christ's resurrection **enough** for me to **believe** His Word? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
@@ -380,4 +383,4 @@ His disciples **remembered** that it is written: <br/>
 “**Zeal** for your **house** will **consume** me.”
 
 ---
-<!-- .slide: data-background-image="https://sermons
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" class="empty" -->
