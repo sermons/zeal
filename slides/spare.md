@@ -2,17 +2,14 @@
 ## Not rendered in presentation
 
 ---
-## 1 Cor 3:16-17 <span class="ref">(NIV)</span>
-Don’t you know that you **yourselves** <br/>
-are God’s **temple** <br/>
-and that God’s **Spirit** dwells in your midst?
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
+## Psalm 69:20-21 <span class="ref">(NIV)</span>
+I looked for **sympathy**, but there was none, <br/>
+for **comforters**, but I found none.
 
-If anyone **destroys** God’s temple, <br/>
-**God** will destroy that person;
-
-for God’s temple is **sacred**, <br/>
-and **you together** are that temple.
+<span class="ref">21</span>
+They put **gall** in my food <br/>
+and gave me **vinegar** for my thirst.
 
 >>>
-+ divisions in church
-+ follow Paul, Apollos, Cephas, etc.
+crucifixion, passion
