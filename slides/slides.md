@@ -17,7 +17,7 @@
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
+## Zeal for the House of God
 1. House of **Merchants**
   <span class="ref">(v13-14)</span>
 1. House of **My Father**
@@ -99,7 +99,7 @@ is a means to **financial gain**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
+## Zeal for the House of God
 1. House of Merchants
   <span class="ref">(v13-14)</span>
 1. **House of My Father**
@@ -172,7 +172,7 @@ who insult you fall on me.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
+## Zeal for the House of God 
 1. House of Merchants
   <span class="ref">(v13-14)</span>
 1. House of My Father
@@ -248,7 +248,7 @@ and the **wisdom** of God.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Zeal for the House of God <br/> <span class="ref">(John 2)</span>
+## Zeal for the House of God 
 1. House of Merchants
   <span class="ref">(v13-14)</span>
 1. House of My Father
