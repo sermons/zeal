@@ -107,8 +107,9 @@ exchanging **money**.
   + "**token**" of arbitrary value
 + money-changers had **monopoly**
   + *tables*: semi-permanent stalls
-+ e.g., church directory to sell insurance
-+ but **more**: come to church so God will **bless** us more
++ e.g., use church **directory** to sell insurance
++ beyond that: **why** attend church?
+  + so God can bless **my agenda**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
@@ -123,7 +124,11 @@ is a means to **financial gain**.
 
 >>>
 + *gain*: not only financial
-+ more "holy" &rArr; more personal **gain**
+  + **route**, opening, procure
++ religious acts as a **tool** for success
++ &rArr; what do we **love**?
+  + own success / gain?
++ is being in presence of the **Father** good enough?
 
 ---
 <!-- .slide: data-background="white" -->
@@ -229,29 +234,31 @@ who insult you fall on me.
 >>>
 + not an outburst of **rage**
   + but deep **sorrow**
-  + over pervasive **corruption**
+  + sorrow over what?
 + *insult*:
   + not just speaking **ill**:
   + **disobedience** to His will
   + active **opposition**
-+ *Your house*: not the building,
++ *Your house*: not a building,
   + but the **body**:
   + holy **congregation**
   + **unified** in following after God
-+ later in same psalm:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
-## Psalm 69:20-21 <span class="ref">(NIV)</span>
-I looked for **sympathy**, but there was none, <br/>
-for **comforters**, but I found none.
+## 1 Cor 3:16-17 <span class="ref">(NIV)</span>
+Don’t you know that you **yourselves** <br/>
+are God’s **temple** <br/>
+and that God’s **Spirit** dwells in your midst?
 
-<span class="ref">21</span>
-They put **gall** in my food <br/>
-and gave me **vinegar** for my thirst.
+If anyone **destroys** God’s temple, <br/>
+**God** will destroy that person;
+
+for God’s temple is **sacred**, <br/>
+and **you together** are that temple.
 
 >>>
-crucifixion, passion
++ divisions in church
++ follow Paul, Apollos, Cephas, etc.
 
 ---
 <!-- .slide: data-background="white" -->
@@ -296,20 +303,8 @@ F. A. Ludy,
 + Again later in **Galilee**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ludy-Christ_curses_Pharisees.jpg" -->
-## Matthew 12:38 <span class="ref">(NIV)</span>
-Then some of the **Pharisees** <br/>
-and **teachers of the law** said to him,
-
-“Teacher, we want to see a **sign** from you.”
-
->>>
-+ no doubt about **signs**, but
-  + doubt from **God** vs Beelzebul
-
----
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
-## 1 Cor 1:22-23 <span class="ref">(NASB)</span>
+## 1 Cor 1:22-23 <span class="ref">(NASB, p.1/2)</span>
 For indeed Jews ask for **signs** <br/>
 and Greeks search for **wisdom**;
 
@@ -327,7 +322,7 @@ and to Gentiles **foolishness**,
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
-## 1 Cor 1:24 <span class="ref">(NASB)</span>
+## 1 Cor 1:24 <span class="ref">(NASB, p.2/2)</span>
 but to those who are **the called**, <br/>
 both Jews and Greeks,
 
@@ -370,7 +365,19 @@ was his **body**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
-## Matthew 12:39 <span class="ref">(NIV)</span>
+## Matthew 12:38 <span class="ref">(NIV, p.1/3)</span>
+Then some of the **Pharisees** <br/>
+and **teachers of the law** said to him,
+
+“Teacher, we want to see a **sign** from you.”
+
+>>>
++ no doubt about **signs**, but
+  + doubt from **God** vs Beelzebul
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
+## Matthew 12:39 <span class="ref">(NIV, p.2/3)</span>
 He answered, <br/>
 “A **wicked** and **adulterous** <br/>
 generation asks for a **sign**!
@@ -380,7 +387,7 @@ except the sign of the prophet **Jonah**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
-## Matthew 12:40 <span class="ref">(NIV)</span>
+## Matthew 12:40 <span class="ref">(NIV, p.3/3)</span>
 For as Jonah was **three days** and **three nights** <br/>
 in the **belly** of a huge **fish**,
 
