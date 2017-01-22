@@ -356,6 +356,13 @@ and the **wisdom** of God.
 1. **Sign of the Temple**
   <span class="ref">(v19, 21-22)</span>
 
+>>>
++ Jesus' **response** to demand for sign?
++ Other times:
+  + just says "**no**"
+  + 3rd Passover: **John** Baptist
++ Here: sign of **Temple**
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Holyland_Model_Temple.jpg" -->
 <span class="ref">19</span>
@@ -369,6 +376,7 @@ was his **body**.
 
 >>>
 + false witnesses at trial
++ Another time when **sign** was demanded:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
@@ -379,8 +387,9 @@ and **teachers of the law** said to him,
 “Teacher, we want to see a **sign** from you.”
 
 >>>
-+ no doubt about **signs**, but
-  + doubt from **God** vs Beelzebul
++ no doubt He did **miracles**, but
++ doubted **who** He was:
+  + Son of **God** vs Beelzebul
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
@@ -403,7 +412,9 @@ so the Son of Man will be <br/>
 in the **heart** of the **earth**.
 
 >>>
-+ sign: own death + resurrection
++ sign: not **proof**
+  + God doesn't
++ **action** to restore
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Scott-Entrance_Garden_Tomb.jpg" -->
