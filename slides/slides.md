@@ -299,9 +299,10 @@ F. A. Ludy,
   + in **charge** of temple worship
 + *prove authority*:
   + that you do all these?
+  + **response** to His actions
   + **protect**, validate
-  + prove **to us**
-+ Again later in **Galilee**:
++ show **to us**:
+  + I **decide** if it's convincing
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
@@ -315,10 +316,9 @@ to Jews a **stumbling block** <br/>
 and to Gentiles **foolishness**,
 
 >>>
-+ prove Jesus' **power** / authority
-+ prove Jesus' **wisdom**
++ prove **power** / authority
++ prove **wisdom**
   + logic, eloquence, pithy
-+ prove to **whom**?
 + **crucifixion** seems weak / foolish
 
 ---
@@ -330,11 +330,17 @@ both Jews and Greeks,
 Christ the **power** of God <br/>
 and the **wisdom** of God.
 
+>>>
++ in reality: **I** need to
++ **change** my understanding of
+  + power + wisdom
+
 ---
 <!-- .slide: data-background="white" -->
 # Do I demand **proof** from God?
 
 >>>
++ **threats**, ultimatums
 + Do this, then I'll **believe**
 + Do this, or else I **won't** believe
 
