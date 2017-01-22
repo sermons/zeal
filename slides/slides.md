@@ -33,6 +33,17 @@
   + bread of life
   + light of world
   + door + good shepherd
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+## John 20:31 <span class="ref">(NIV)</span>
+These are written that you may **believe** <br/>
+that Jesus is the **Messiah**, the **Son of God**,
+
+and that by **believing** <br/>
+you may have **life** in his name.
+
+>>>
 + in ch2: **who** is Christ?
   + son of **God**
   + true **temple**
@@ -432,6 +443,10 @@ and the **words** that Jesus had spoken.
 <!-- .slide: data-background="white" -->
 ## **Who** is Jesus?
 ## What is He **passionate** for?
+
+>>>
++ believe Jesus is **Messiah**
++ **life** in His name
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
