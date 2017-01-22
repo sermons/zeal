@@ -258,6 +258,10 @@ crucifixion, passion
 # Does **insult** <br/> to God's holiness
 # **consume** me <br/> with sorrow?
 
+>>>
++ **rebellion** / opposition
++ **perversion** / misuse
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 ## Zeal for the House of God
