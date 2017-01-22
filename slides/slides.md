@@ -16,14 +16,14 @@
   + but on **Scripture**'s account
 
 ---
-## John: the Passion of the Christ
-+ **Appearance** 
+## Gospel of John: <br/> the Passion of the Christ
++ Early Ministry: **Appearance** 
    <span class="ref">(ch1-4)</span>
 + Ministry to the Public: **Signs**
    <span class="ref">(ch5-12)</span>
 + Ministry to the Disciples: **Teaching** 
    <span class="ref">(ch13-17)</span>
-+ **Death and Resurrection** 
++ **Death** and **Resurrection** 
    <span class="ref">(ch18-21)</span>
 
 >>>
@@ -31,6 +31,12 @@
   + bread of life
   + light of world
   + door + good shepherd
++ in ch2: **who** is Christ? 
+  + son of **God**
+  + true **temple**
++ what is His **passion**?
+  + restore true **worship**
+  + through His own **death** + resurrection
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
@@ -99,6 +105,8 @@ exchanging **money**.
   + "**token**" of arbitrary value
 + money-changers had **monopoly**
   + *tables*: semi-permanent stalls
++ e.g., church directory to sell insurance
++ but **more**: come to church so God will **bless** us more
 
 ---
 ## 1 Timothy 6:4-5 <span class="ref">(NIV)</span>
@@ -112,12 +120,17 @@ is a means to **financial gain**.
 
 >>>
 + *gain*: not only financial
++ more "holy" &rArr; more personal **gain**
 
 ---
 <!-- .slide: data-background="white" -->
 ## Do I attend **church**
 ## to seek the **Father**
 ## or to seek His **blessings**?
+
+>>>
++ chasing God's **will**
+  + or my own **wealth**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
@@ -160,6 +173,14 @@ To those who sold **doves** he said, <br/>
 Stop turning **my Father’s house** <br/>
 into a **market**!”
 
+>>>
++ *market*: house of emporium
++ *my*: not yours: **relationship**
++ *Father*: submission of Son
+  + but also **identification** of Son with Father
++ *house*: home, **dwelling**
+  + not marketplace
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bida-Jesus_expels_the_merchants.jpg" -->
 <span class="ref">17</span>
@@ -170,6 +191,12 @@ His disciples **remembered** that it is written: <br/>
 Alexander Bida,
 ["Jesús expulsa a los mercaderes del Templo"](https://www.gci.org/files/images/ab/index2), 1885
 </div>
+
+>>>
++ *zeal*: fervent **commitment** in both emotion + action
+  + seek, pursue, jealous
++ *consume*: **eat** up, swallow whole, **burn** completely
++ *remembered*: Messianic psalm 69:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
@@ -184,15 +211,22 @@ and the **insults** of those <br/>
 who insult you fall on me.
 
 >>>
-+ *zeal*: fervent **commitment** in both emotion + action
-  + seek, pursue, jealous
-+ *consume*: **eat** up, swallow whole, **burn** completely
++ not an outburst of **rage**
+  + but deep **sorrow**
+  + over the **corrupted** state of the world
++ later in same psalm:
 
 ---
-## Psalm 69:16 <span class="ref">(NIV)</span>
+## Psalm 69:20-21 <span class="ref">(NIV)</span>
+I looked for **sympathy**, but there was none, <br/>
+for **comforters**, but I found none.
+
+<span class="ref">21</span>
+They put **gall** in my food <br/>
+and gave me **vinegar** for my thirst.
 
 >>>
-gall: crucifixion, passion
+crucifixion, passion
 
 ---
 <!-- .slide: data-background="white" -->
