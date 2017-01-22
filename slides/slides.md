@@ -16,6 +16,23 @@
   + but on **Scripture**'s account
 
 ---
+## John: the Passion of the Christ
++ **Appearance** 
+   <span class="ref">(ch1-4)</span>
++ Ministry to the Public: **Signs**
+   <span class="ref">(ch5-12)</span>
++ Ministry to the Disciples: **Teaching** 
+   <span class="ref">(ch13-17)</span>
++ **Death and Resurrection** 
+   <span class="ref">(ch18-21)</span>
+
+>>>
++ 7 "I am" claims:
+  + bread of life
+  + light of world
+  + door + good shepherd
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 ## Zeal for the House of God
 1. House of **Merchants**
@@ -93,9 +110,14 @@ people of **corrupt mind**,
 who think that **godliness** <br/>
 is a means to **financial gain**.
 
+>>>
++ *gain*: not only financial
+
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+## Do I attend **church**
+## to seek the **Father**
+## or to seek His **blessings**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
@@ -165,6 +187,12 @@ who insult you fall on me.
 + *zeal*: fervent **commitment** in both emotion + action
   + seek, pursue, jealous
 + *consume*: **eat** up, swallow whole, **burn** completely
+
+---
+## Psalm 69:16 <span class="ref">(NIV)</span>
+
+>>>
+gall: crucifixion, passion
 
 ---
 <!-- .slide: data-background="white" -->
