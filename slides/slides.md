@@ -178,8 +178,9 @@ he **scattered** the coins of the money changers <br/>
 and **overturned** their tables.
 
 >>>
-+ *scattered*: distrib for free
++ *scattered*: distrib for **free**
 + *overturned*: revoke lease
++ break down **barriers** to worship
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Mei-Christ_Cleansing_the_Temple.jpg" -->
@@ -235,12 +236,10 @@ who insult you fall on me.
 + not an outburst of **rage**
   + but deep **sorrow**
   + sorrow over what?
-+ *insult*:
-  + not just speaking **ill**:
-  + **disobedience** to His will
-  + active **opposition**
++ *insult*: cast scorn / blame
+  + attack God's **character**
 + *Your house*: not a building,
-  + but the **body**:
+  + but **dwelling**
   + holy **congregation**
   + **unified** in following after God
 
@@ -257,17 +256,19 @@ for God’s temple is **sacred**, <br/>
 and **you together** are that temple.
 
 >>>
-+ divisions in church
++ **personality** cults
+  + **splitting** the church
 + follow Paul, Apollos, Cephas, etc.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does **insult** <br/> to God's holiness
-# **consume** me <br/> with sorrow?
+## Am I **consumed** with sorrow <br/> over **attacks** on
+## God's **character** or **church**?
 
 >>>
-+ **rebellion** / opposition
-+ **perversion** / misuse
++ what Jesus was **passionate** about
++ char: **insult**, reproach, scorn
++ church: **dwelling**, corporate **worship**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
