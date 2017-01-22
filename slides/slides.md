@@ -361,6 +361,7 @@ and the **wisdom** of God.
 + Other times:
   + just says "**no**"
   + 3rd Passover: **John** Baptist
+  + sign of **Jonah**: death + res
 + Here: sign of **Temple**
 
 ---
@@ -375,8 +376,16 @@ But the **temple** he had spoken of <br/>
 was his **body**.
 
 >>>
-+ false witnesses at trial
-+ Another time when **sign** was demanded:
++ quoted by false **witnesses** at trial
++ not to **prove** He is God
+  + not subjunc / hypothetical: "If"
++ sign: **testimony** against them
+  + what **they** will do
+  + what **He** will do
++ **destroy** old defn of worship
+  + rite, culture, legalism
++ **raise up** new worship
+  + explained in Ephesians:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
@@ -390,6 +399,14 @@ is growing into a **holy temple** in the Lord,
 <span class="ref">22</span>
 in whom you also are being **built together**
 into a **dwelling of God** in the Spirit.
+
+>>>
++ new **temple**: us in Christ
++ Jesus' **passion** for
+  + God's **holiness** and
+  + restored **worship**
++ passion: not just **emotion**
+  + but committed **action**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Scott-Entrance_Garden_Tomb.jpg" -->
@@ -405,9 +422,16 @@ and the **words** that Jesus had spoken.
 &copy; 2009 Ian W Scott, CC-BY-SA 2.0
 </div>
 
+>>>
++ **eyewitnesses** to Jesus' passion
++ **who** Jesus is
++ **what** He's passionate for
++ &rArr; **believe**
+
 ---
 <!-- .slide: data-background="white" -->
-# Is Christ's resurrection **enough** for me to **believe** His Word?
+## **Who** is Jesus?
+## What is He **passionate** for?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
