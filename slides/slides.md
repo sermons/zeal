@@ -16,22 +16,24 @@
   + but on **Scripture**'s account
 
 ---
-## Gospel of John: <br/> the Passion of the Christ
-+ Early Ministry: **Appearance** 
+## Gospel of *John*: <br/> the *Passion* of the *Christ*
++ Early Ministry: **Appearance**
    <span class="ref">(ch1-4)</span>
 + Ministry to the Public: **Signs**
    <span class="ref">(ch5-12)</span>
-+ Ministry to the Disciples: **Teaching** 
++ Ministry to the Disciples: **Teaching**
    <span class="ref">(ch13-17)</span>
-+ **Death** and **Resurrection** 
++ **Death** and **Resurrection**
    <span class="ref">(ch18-21)</span>
 
 >>>
-+ 7 "I am" claims:
++ **Who** He is
+  + **What** His heart cares about
++ 7 "**I am**" claims:
   + bread of life
   + light of world
   + door + good shepherd
-+ in ch2: **who** is Christ? 
++ in ch2: **who** is Christ?
   + son of **God**
   + true **temple**
 + what is His **passion**?
@@ -109,11 +111,12 @@ exchanging **money**.
 + but **more**: come to church so God will **bless** us more
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
 ## 1 Timothy 6:4-5 <span class="ref">(NIV)</span>
 They have an unhealthy interest in **controversies** ...
 
 constant **friction** between <br/>
-people of **corrupt mind**, 
+people of **corrupt mind**,
 
 who think that **godliness** <br/>
 is a means to **financial gain**.
@@ -151,9 +154,6 @@ So he made a **whip** out of cords, <br/>
 and **drove** all from the temple courts, <br/>
 both **sheep** and **cattle**;
 
-he **scattered** the coins of the money changers <br/>
-and **overturned** their tables.
-
 <div class="caption">
 Bernardino Mei,
 ["Christ Cleansing the Temple"](https://www.google.com/culturalinstitute/beta/u/0/asset/8gGjtgJKKO7AGQ), 1655. Getty Museum, LA
@@ -161,6 +161,18 @@ Bernardino Mei,
 
 >>>
 + *whip*: for **animals**
+  + not people
++ not to **punish**
+  + but to **restore** court
++ to be "house of prayer for all nations"
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Mei-Christ_Cleansing_the_Temple.jpg" -->
+<span class="ref">15</span>
+he **scattered** the coins of the money changers <br/>
+and **overturned** their tables.
+
+>>>
 + *scattered*: distrib for free
 + *overturned*: revoke lease
 
@@ -185,7 +197,7 @@ into a **market**!”
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bida-Jesus_expels_the_merchants.jpg" -->
 <span class="ref">17</span>
 His disciples **remembered** that it is written: <br/>
-“**Zeal** for your **house** will **consume** me.”
+“**Zeal** for your house will **consume** me.”
 
 <div class="caption">
 Alexander Bida,
@@ -196,7 +208,11 @@ Alexander Bida,
 + *zeal*: fervent **commitment** in both emotion + action
   + seek, pursue, jealous
 + *consume*: **eat** up, swallow whole, **burn** completely
-+ *remembered*: Messianic psalm 69:
++ *remembered*:
+  + **immediately**, not after resurrection (v22)
++ Jesus' **passion** for Father's **holiness**
+  + and restored **worship**
++ remembered Messianic Psalm 69:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
@@ -206,17 +222,26 @@ For I endure **scorn** for your sake, <br/>
 and **shame** covers my face.
 
 <span class="ref">9</span>
-**Zeal** for your house **consumes** me, <br/>
+Zeal for **your house** consumes me, <br/>
 and the **insults** of those <br/>
 who insult you fall on me.
 
 >>>
 + not an outburst of **rage**
   + but deep **sorrow**
-  + over the **corrupted** state of the world
+  + over pervasive **corruption**
++ *insult*:
+  + not just speaking **ill**:
+  + **disobedience** to His will
+  + active **opposition**
++ *Your house*: not the building,
+  + but the **body**:
+  + holy **congregation**
+  + **unified** in following after God
 + later in same psalm:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 ## Psalm 69:20-21 <span class="ref">(NIV)</span>
 I looked for **sympathy**, but there was none, <br/>
 for **comforters**, but I found none.
@@ -231,11 +256,11 @@ crucifixion, passion
 ---
 <!-- .slide: data-background="white" -->
 # Does **insult** <br/> to God's holiness
-# **consume** me <br/> with sorrow? 
+# **consume** me <br/> with sorrow?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Zeal for the House of God 
+## Zeal for the House of God
 1. House of Merchants
   <span class="ref">(v13-14)</span>
 1. House of My Father
@@ -307,11 +332,15 @@ and the **wisdom** of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I demand **proof** from God? 
+# Do I demand **proof** from God?
+
+>>>
++ Do this, then I'll **believe**
++ Do this, or else I **won't** believe
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
-## Zeal for the House of God 
+## Zeal for the House of God
 1. House of Merchants
   <span class="ref">(v13-14)</span>
 1. House of My Father
@@ -361,7 +390,7 @@ in the **heart** of the **earth**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Scott-Entrance_Garden_Tomb.jpg" -->
 <span class="ref">22</span>
-**After** he was raised from the dead, <br/>
+After he was **raised** from the dead, <br/>
 his disciples **recalled** what he had said.
 
 Then they **believed** the **Scripture** <br/>
@@ -374,7 +403,7 @@ and the **words** that Jesus had spoken.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is Christ's resurrection **enough** for me to **believe** His Word? 
+# Is Christ's resurrection **enough** for me to **believe** His Word?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
