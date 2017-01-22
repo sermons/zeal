@@ -7,7 +7,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is Jesus **passionate** about?
+# What is Jesus **passionate** for?
 
 >>>
 + fervent **commitment**, in
@@ -230,7 +230,8 @@ crucifixion, passion
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Does **insult** <br/> to God's holiness
+# **consume** me <br/> with sorrow? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
@@ -379,4 +380,4 @@ His disciples **remembered** that it is written: <br/>
 “**Zeal** for your **house** will **consume** me.”
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons
