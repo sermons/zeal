@@ -16,7 +16,7 @@
   + but on **Scripture**'s account
 
 ---
-## Gospel of *John*: <br/> the *Passion* of the *Christ*
+## Gospel of *John*: <br/> the Passion of the Christ
 + Early Ministry: **Appearance**
    <span class="ref">(ch1-4)</span>
 + Ministry to the Public: **Signs**
@@ -185,7 +185,8 @@ Bernardino Mei,
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Mei-Christ_Cleansing_the_Temple.jpg" -->
 <span class="ref">15</span>
-he **scattered** the coins of the money changers <br/>
+he **scattered** the coins <br/>
+of the money changers <br/>
 and **overturned** their tables.
 
 >>>
@@ -255,6 +256,7 @@ who insult you fall on me.
   + **unified** in following after God
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
 ## 1 Cor 3:16-17 <span class="ref">(NIV)</span>
 Don’t you know that you **yourselves** <br/>
 are God’s **temple** <br/>
@@ -404,11 +406,12 @@ was his **body**.
 **Christ Jesus** Himself [is] the **corner stone**,
 
 <span class="ref">21</span>
-in whom the whole **building**, being **fitted** together,
+in whom the whole **building**, <br/>
+being **fitted** together, <br/>
 is growing into a **holy temple** in the Lord,
 
 <span class="ref">22</span>
-in whom you also are being **built together**
+in whom you also are being **built together** <br/>
 into a **dwelling of God** in the Spirit.
 
 >>>
