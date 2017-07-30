@@ -2,14 +2,19 @@
   "name": "@sermons/zeal",
   "repository": "sermons/zeal",
   "description": "Jn2:13-22, Zeal for the House of God",
-  "keywords": ["slides", "sermons", "talks", "ppt"],
-  "version": "1.2.4",
+  "keywords": [
+    "slides",
+    "sermon",
+    "talks",
+    "ppt"
+  ],
+  "version": "1.4.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "zeal.seanho.com",
     "cname": "zeal.seanho.com",
     "multiplex": {
-      "url": "https://mp-seanho00.rhcloud.com:8443/",
+      "url": "https://mp.seanho.com:8443/",
       "id": "23598fff00ec0fda"
     },
     "git": {
@@ -20,29 +25,35 @@
       {
         "venue": "Evangelical Chinese Bible Church",
         "city": "Burnaby",
-        "date": "2017-01-22"
+        "date": "2017-01-22",
+        "duration": 0
       }
     ],
-    "slides": [ "slides/slides.md" ],
+    "slides": [
+      "slides/slides.md"
+    ],
     "css": [
       {
         "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
-       	"integrity": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
-      },{
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.4.1/css/reveal.min.css",
-       	"integrity": "sha256-5z1tvl5q2pgp1SJIkfLhpdE5JfcAAN1FDBQe3YzlUdg="
-      },{
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css",
-       	"integrity": "sha256-akwTLZec/XAFvgYgVH1T5/369lhA2Efr22xzCNl1nHs="
+        "integrity": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/css/reveal.min.css",
+        "integrity": "sha256-vPN+adnQKmyGqQAeBNs9+GBYVx8uQETV+DAdAXG0XBg="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-dark.min.css",
+        "integrity": "sha256-akwTLZec/XAFvgYgVH1T5/369lhA2Efr22xzCNl1nHs="
       }
     ],
     "js": [
       {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js",
-       	"integrity": "sha256-+09kLhwACKXFPDvqo4xMMvi4+uXFsRZ2uYGbeN1U8sI="
-      },{
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.4.1/js/reveal.min.js",
-       	"integrity": "sha256-iSS1lZpXv81SOmVH9u7LxPptbmNmVc40zG/1R2cKUbk="
+        "integrity": "sha256-+09kLhwACKXFPDvqo4xMMvi4+uXFsRZ2uYGbeN1U8sI="
+      },
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/js/reveal.min.js",
+        "integrity": "sha256-Kq2PSVZ3iKoRCW+zD98fwPs26/aw43ATQP9mBQgnVZc="
       }
     ]
   },
@@ -54,13 +65,14 @@
     "grunt-contrib-copy": "^1.0.0",
     "load-grunt-tasks": "^3.5.2",
     "grunt-exec": "^2.0.0",
-    "grunt-curl": "^2.2.0",
+    "grunt-curl": "^2.2.1",
     "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
     "coffeelint": "^1.16.0",
-    "phantom": "^4.0.1"
+    "grunt-git": "^1.0.4"
   },
   "scripts": {
+    "postinstall": "grunt install",
     "test": "grunt test",
     "pdf": "grunt pdf",
     "deploy": "grunt deploy"
