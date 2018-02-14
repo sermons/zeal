@@ -3,7 +3,7 @@
 
 [![Travis-CI build status](https://travis-ci.org/sermons/zeal.svg)](https://travis-ci.org/sermons/zeal)
 [![Node dependencies](https://david-dm.org/sermons/zeal.svg)](https://david-dm.org/sermons/zeal)
-[![Node dev status](https://david-dm.org/sermons/zeal/dev-status.svg)](https://david-dm.org/sermons/zeal#info=devDependencies)
+[![Node dev status](https://david-dm.org/sermons/zeal/dev-status.svg)](https://david-dm.org/sermons/zeal?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
